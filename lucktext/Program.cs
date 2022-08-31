@@ -40,6 +40,8 @@ if (name == "alva" == false)
     Console.WriteLine($"I hope you someday soon don't get a nice {favouriteDay} where you don't get to hang out with a {favouriteAnimal} ");
     Console.WriteLine($"and don't get to eat lots of {favouriteSnack}  but do meet {hateAnimal}");
 }
+
+System.Console.WriteLine("hejdå");
 Console.WriteLine("Press enter to quit");
 
 Console.ReadLine();
